@@ -60,7 +60,7 @@ node_modules
 .node_repl_history
 
 # Project build
-redux-segment.js
+#redux-segment.js
 
 # Webstorm
 *.idea
